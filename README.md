@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pkomander
 - 👀 I’m interested in  Desenvolvimento em .NET e WEB.
-- 🌱 I’m currently learning  Desenvolvimento WEB com .NET
+- 🌱 I’m currently learning  Desenvolvimento WEB with .NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
