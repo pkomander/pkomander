@@ -43,7 +43,7 @@
   
 ### Studying in this moment:
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-<p>Atualmente estou aprofundando meus conhecimentos em desenvolvimento de API com .NET Core que e minha linguagem principal com Angular.js, link da aplicacao em desenvolvimento: https://6467e9624560f319f056ddd4--grand-biscuit-fee226.netlify.app/eventos/lista</p>
+<p>Atualmente estou aprofundando meus conhecimentos em desenvolvimento de API com .NET Core que e minha linguagem principal com Angular.js</p>
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
